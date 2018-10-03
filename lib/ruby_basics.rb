@@ -16,7 +16,7 @@ def greeting(name, language)
 end
 
 def return_a_value
-nice = puts "Nice"
+nice = "Nice"
 nice
 end
 
