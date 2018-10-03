@@ -21,8 +21,8 @@ nice
 end
 
 def last_evaluated_value
-  expert = puts "expert"
-  expert
+expert = "expert"
+puts expert
 
 end
 
