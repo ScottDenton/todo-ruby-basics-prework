@@ -22,7 +22,7 @@ end
 
 def last_evaluated_value
 expert = "expert"
-puts expert
+expert
 
 end
 
