@@ -11,12 +11,13 @@ def argue(argument)
   
 end
 
-def greeting
+def greeting(name, language)
 
 end
 
 def return_a_value
-
+nice = puts "Nice"
+nice
 end
 
 def last_evaluated_value
